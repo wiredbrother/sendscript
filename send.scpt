@@ -1,4 +1,4 @@
-set theAddress to ""
+set theAddress to "example"
 tell application "Mail"
 	set userName to short user name of (system info)
 	set theSubject to "Message Report"
